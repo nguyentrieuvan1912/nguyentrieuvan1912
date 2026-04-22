@@ -17,6 +17,10 @@
     src="https://github-readme-streak-stats.herokuapp.com/?user=nguyentrieuvan1912&theme=tokyonight&hide_border=true"/>
 </p>
 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=nguyentrieuvan1912&label=Profile%20views&color=7AA2F7&style=flat" height="25px"/> 
+</p>
+
 <br clear="both"/>
 
 <!-- Skills -->
