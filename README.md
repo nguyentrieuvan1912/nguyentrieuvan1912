@@ -54,6 +54,7 @@
   <a href="https://instagram.com/yourlink">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+  <a href="https://mail.google.com/mail/?view=cm&to=nguyentrieuvan19122004@gmail.com">
 </p>
 
 ---
