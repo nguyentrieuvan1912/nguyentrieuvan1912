@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Van 👋</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Hi+I'm+Van;I+love+coding;Always+learning+new+things">
 
 <p align="center">
   <i>Student • Developer • Always learning</i>
@@ -56,8 +56,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyentrieuvan1912&theme=tokyonight&hide_border=true"/>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Hi+I'm+Van;I+love+coding;Always+learning+new+things">
-<img src="https://github.com/nguyentrieuvan1912/nguyentrieuvan1912/blob/output/github-contribution-grid-snake.svg" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyentrieuvan1912&theme=tokyonight&hide_border=true"/>
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_ID&cover_image=true&theme=novatorem" />
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
